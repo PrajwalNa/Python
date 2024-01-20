@@ -1,0 +1,11 @@
+Orange Fruit 2990.0  
+Apple Fruit 9950.0  
+Banana Fruit 735.0  
+Milk Dairy 3750.0  
+Cheese Dairy 12600.0  
+Yogurt Dairy 3850.0  
+Carrot Vegetable 3382.0  
+Celery Vegetable 3950.1000000000004  
+Bean Vegetable 6750.0  
+Potato Vegetable 6000.0  
+    
