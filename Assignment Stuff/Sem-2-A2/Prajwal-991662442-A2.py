@@ -2,7 +2,6 @@
 Assignment No.: 2
 Course: PROG23199
 Student Name: Prajwal Nautiyal
-Student Number: 991662442
 Submission date: 2 April 2023
 Instructor's name: Syed Tanbeer
 ------------------------------------------------------------------------------------------------------------------------
